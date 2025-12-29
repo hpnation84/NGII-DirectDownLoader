@@ -1,7 +1,945 @@
 {
-  "app": "NGII-DirectDownLoader",
-  "version": "0.0.0",
-  "generated_at": "",
-  "files": [],
-  "removed": []
+    "app":  "NGII-DirectDownLoader",
+    "version":  "1.9.1",
+    "generated_at":  "2025-12-29T06:57:01Z",
+    "files":  [
+                  {
+                      "path":  ".venv/Lib/site-packages/charset_normalizer/md.cp313-win_amd64.pyd",
+                      "sha256":  "89d8172b5f460c3fd85716c9641643fd7d893365a99867df4471b017f2995695",
+                      "size":  10752
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/charset_normalizer/md__mypyc.cp313-win_amd64.pyd",
+                      "sha256":  "3ccacfdbf227750083980a7de0c982be26dfebac26e4fa599d1e7a5866e92a21",
+                      "size":  126976
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/Code.cp313-win_amd64.pyd",
+                      "sha256":  "a0fffc97213036e6af793239d7f332a27e25c2ca930b7ebbdb5ad10116f0bc2a",
+                      "size":  862208
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/FlowControl.cp313-win_amd64.pyd",
+                      "sha256":  "b4265f6f9649d4adb6244ab23a2f4b1ea757fdb7c7f66a3c4a5ffc6e982fe051",
+                      "size":  363520
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/FusedNode.cp313-win_amd64.pyd",
+                      "sha256":  "466d185869950de297c6c254a2d78b85cf13d1b658bbc5596110b4086c5ba85d",
+                      "size":  247296
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/LineTable.cp313-win_amd64.pyd",
+                      "sha256":  "c0c3b1415a74db004b03b598160beb3fe78decf474eea449178adcd983b0bd09",
+                      "size":  41984
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/Parsing.cp313-win_amd64.pyd",
+                      "sha256":  "60b83e135b91f06799df8d9a59cf54b79926a0eb9d79655268bb540f653eed70",
+                      "size":  552960
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/Scanning.cp313-win_amd64.pyd",
+                      "sha256":  "be8fa675c038b01c542e92e71c677bbf58b12305f322fe9ae20694682a90c249",
+                      "size":  198656
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Compiler/Visitor.cp313-win_amd64.pyd",
+                      "sha256":  "3b094cc7f17fad1486b2a9a7c769a4146fc4da886bc43184db7f0749cce38d7d",
+                      "size":  195584
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Plex/Actions.cp313-win_amd64.pyd",
+                      "sha256":  "33cc389d83871f2f675cca2ab461ba8242592db0b50a919dbe505f9fd1705a2d",
+                      "size":  52736
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Plex/DFA.cp313-win_amd64.pyd",
+                      "sha256":  "72847c3d604b4219d524c7bf9faf0ee7fed0f1ef28c03007bf4c13abddddccc7",
+                      "size":  62976
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Plex/Machines.cp313-win_amd64.pyd",
+                      "sha256":  "9aba5624e9bf445959b4524a02010378b10f8922e2ff3c5a3fbefd5919ad00fe",
+                      "size":  95232
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Plex/Scanners.cp313-win_amd64.pyd",
+                      "sha256":  "df0d4e5af75876bb5a9feb2677fca32c530ba2cc51af84a6da0dc4e938adca62",
+                      "size":  77824
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Plex/Transitions.cp313-win_amd64.pyd",
+                      "sha256":  "4c282da03a6c0ec46fb68a016da2c2c4a25c210371cc9401ed2820101c746178",
+                      "size":  74240
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Runtime/refnanny.cp313-win_amd64.pyd",
+                      "sha256":  "45cedade968402d9e99a69c4385e641a9a7e152789ba94373b3cfab8c58335c5",
+                      "size":  54784
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/StringIOTree.cp313-win_amd64.pyd",
+                      "sha256":  "1d69842e32b0f946b21d63755f58608e30e89147502e2903e46fdde626f25243",
+                      "size":  54784
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Tempita/_tempita.cp313-win_amd64.pyd",
+                      "sha256":  "ea6a55b1cb10396b26aca5172c4f76d4c4ddd9e19b693159e2a995e5a8af5321",
+                      "size":  298496
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/Cython/Utils.cp313-win_amd64.pyd",
+                      "sha256":  "0b697c3fd35e10fcda6d52a2197d278ba846ba5b02a19b2c58085fb20d9d9d26",
+                      "size":  193536
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_camera.cp313-win_amd64.pyd",
+                      "sha256":  "a77286e17ff2974c417f0883493975aa6feb7e09c6bfbaeef854eadee2652286",
+                      "size":  17920
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_freetype.cp313-win_amd64.pyd",
+                      "sha256":  "18cd46f4d572b00fcfde0710a5f90532715036d075c1a693960ee897085c0c82",
+                      "size":  78848
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sdl2/audio.cp313-win_amd64.pyd",
+                      "sha256":  "216e6e753db4b26f94df70e7523c54061b9cebb2f8bb82f84d85089d0eb4674e",
+                      "size":  167424
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sdl2/controller.cp313-win_amd64.pyd",
+                      "sha256":  "f7d02785918fd90f97d95f748d86d559178348f09363b058c61ca04bd1feebb7",
+                      "size":  103936
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sdl2/mixer.cp313-win_amd64.pyd",
+                      "sha256":  "441d75e3e75a7085294c3d11023a7bd6093f1eb4f90460f5e083c1846a3f752d",
+                      "size":  147968
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sdl2/sdl2.cp313-win_amd64.pyd",
+                      "sha256":  "bcfc4e121206bed910ec73456a12a645a31e09f7b3ae58125c221736cc5c44be",
+                      "size":  43520
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sdl2/touch.cp313-win_amd64.pyd",
+                      "sha256":  "2afc76a626a12d4efb63a48060f682bd159ff6fa3f7b76a084c44726fcd4479f",
+                      "size":  13824
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sdl2/video.cp313-win_amd64.pyd",
+                      "sha256":  "645e67b2612f61598af72172426f765f49b8d760e47fa2d6360e5ec32326595a",
+                      "size":  225792
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/_sprite.cp313-win_amd64.pyd",
+                      "sha256":  "da83f939d4c4b8f53ff0ea960a9391b91c15775a2768fe81777ad84141bf45e0",
+                      "size":  324608
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/base.cp313-win_amd64.pyd",
+                      "sha256":  "66d997da2dd61b2f20cb042bcdf4e50ce9e76af8cfa23ba0130aafe25ac407ca",
+                      "size":  31232
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/bufferproxy.cp313-win_amd64.pyd",
+                      "sha256":  "1dfb23e182b9e115a17e162ac97f29e4b71a04b4291f863db9488bca04aec533",
+                      "size":  18432
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/color.cp313-win_amd64.pyd",
+                      "sha256":  "293fafd79cc23feac8cfc270df306ad7285d192331b9b9436b6631024cea35d5",
+                      "size":  35840
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/constants.cp313-win_amd64.pyd",
+                      "sha256":  "c346ee23b6695ed6280f71d13cd4c5ecef569e12f331508008e60371e4350207",
+                      "size":  50688
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/display.cp313-win_amd64.pyd",
+                      "sha256":  "2b87801d06d55ee5eaf8c87d647a8e95f14e6fcf3b8e1d9a633a50c88b398920",
+                      "size":  45056
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/draw.cp313-win_amd64.pyd",
+                      "sha256":  "c8db798417679164d7a447147be1c7370c9cce5323cf9db741fc3ef5e4d42f3f",
+                      "size":  50176
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/event.cp313-win_amd64.pyd",
+                      "sha256":  "494f7d0958ff406d826cc1b5fbd3df954cdf8dabebf30e3be74924c9355b324a",
+                      "size":  44544
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/font.cp313-win_amd64.pyd",
+                      "sha256":  "1b8d36cfe30d16d2f848f20fffbcb50e94b09702a633fb49dae00a5525064395",
+                      "size":  24576
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/gfxdraw.cp313-win_amd64.pyd",
+                      "sha256":  "b79ba58cbd29b5bb9070ee17eaeded465504ad79edd489056d2df27350149ff4",
+                      "size":  58880
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/image.cp313-win_amd64.pyd",
+                      "sha256":  "7382c07d5e416d91cfeff335da831614b7e0fd3fd03f9ecff0e852fc4f164ce4",
+                      "size":  29696
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/imageext.cp313-win_amd64.pyd",
+                      "sha256":  "8c83d5ef6cfb06870eb5f1b54a709377b0040c1dd2430a7cbe47595d8b95f163",
+                      "size":  17408
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/joystick.cp313-win_amd64.pyd",
+                      "sha256":  "f5a9beeffa97dfa4ead68bfd26799657b911ed3a3442c1ba44f7acc98285d3f6",
+                      "size":  20480
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/key.cp313-win_amd64.pyd",
+                      "sha256":  "e4a92821232e6db7df15454911ab791ff23debe31ebcbd73e16b7a76b284613e",
+                      "size":  20992
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/mask.cp313-win_amd64.pyd",
+                      "sha256":  "8cb6bee31fe4072a8c551ed96d1281dab507d2cdbbcce32644d8ed8077cb1df4",
+                      "size":  55296
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/math.cp313-win_amd64.pyd",
+                      "sha256":  "1b217a687d7adf4732abd227b747465f0fc83a6bfb3064e9a4729075ac603159",
+                      "size":  77312
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/mixer.cp313-win_amd64.pyd",
+                      "sha256":  "ae2adaddce707dd72bf2a847642c9482c7051da16bca77ea9a91c88ff37e5f60",
+                      "size":  37888
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/mixer_music.cp313-win_amd64.pyd",
+                      "sha256":  "94838dab2c1da7efcfec05a667401df117f3074ae28ff1b6f84f065f0864d2ac",
+                      "size":  20480
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/mouse.cp313-win_amd64.pyd",
+                      "sha256":  "e36df76dbd1577b46711c5f34e20b03ebd4a160c44d75faf814cd3a5e69ffd4c",
+                      "size":  19456
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/newbuffer.cp313-win_amd64.pyd",
+                      "sha256":  "0c7d3e073868864cd2b4c6f747f19821adf885bba32187751b4eb066d8a4c6c1",
+                      "size":  21504
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/pixelarray.cp313-win_amd64.pyd",
+                      "sha256":  "6eaa6e113527bec6e49f6bacb165e1358202a8ece3f8206a26d915a945f4f53b",
+                      "size":  48128
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/pixelcopy.cp313-win_amd64.pyd",
+                      "sha256":  "492d8bbb31bd3ea0bd280d45844e67b47ed8962b4acbd6e74a23497a5d6f9399",
+                      "size":  27136
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/pypm.cp313-win_amd64.pyd",
+                      "sha256":  "a28acfaf2ff406140fa68985fde61501980aeb12614c13b6e3b0172ba6c61457",
+                      "size":  103936
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/rect.cp313-win_amd64.pyd",
+                      "sha256":  "19c268113752ec69f0de20d93190fca397bdbdffcca20890ed4f8627e3e3f722",
+                      "size":  45056
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/rwobject.cp313-win_amd64.pyd",
+                      "sha256":  "8393c52dcb1d0bef5a2712136dd7ff1a7ff3ce91ea72199b74d74e28c82e7093",
+                      "size":  19968
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/scrap.cp313-win_amd64.pyd",
+                      "sha256":  "beb939ef350374ef237a843d8b9ec5da69c0f4f165ba1db88086c96c52f381db",
+                      "size":  18944
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/surface.cp313-win_amd64.pyd",
+                      "sha256":  "358e005063a967b5c876caea1d4e72451fa1018693c140a45afbb1cafc860b4c",
+                      "size":  239104
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/surflock.cp313-win_amd64.pyd",
+                      "sha256":  "2460b9d33675b20596f4a06b0d387fd09a0b0dc37a21a07cee72273e02585b65",
+                      "size":  13824
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/time.cp313-win_amd64.pyd",
+                      "sha256":  "dde2128c9aa2a0f08dc211692577cb6857d8f674d27b98b1b28bef1175bfbefa",
+                      "size":  18944
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pygame/transform.cp313-win_amd64.pyd",
+                      "sha256":  "57d7234534e1a1a59a0eee89466b36f3b3f67c77511b85df88aa8a759e2514e4",
+                      "size":  58368
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_compat.cp313-win_amd64.pyd",
+                      "sha256":  "e94b1b1cac136938a4b0046ed61101e37aef259c1713b927c6cece25fafbf024",
+                      "size":  40960
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_context.cp313-win_amd64.pyd",
+                      "sha256":  "e7acc7dc5a4f0085e744f363c2e03fad6ac58f1ae122dd678f2c4b2d536b2bb7",
+                      "size":  70656
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_crs.cp313-win_amd64.pyd",
+                      "sha256":  "d4344885e0bc083e9959efb8622f3bf2e0753ec9a54b48b9e41e13791824bea1",
+                      "size":  352256
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_geod.cp313-win_amd64.pyd",
+                      "sha256":  "b1d569ea9acfe74ea9479784324584fda4a98038b2052452a7f6102bec542c93",
+                      "size":  97280
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_network.cp313-win_amd64.pyd",
+                      "sha256":  "be9899da19ed29a5e04ba634332c2464f0d2307e5d626bc254c15cc819a570cd",
+                      "size":  39936
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_sync.cp313-win_amd64.pyd",
+                      "sha256":  "22faf69e5aed65e15565d1c3115b1344898a16e216721d3dc2c64ec505824bc1",
+                      "size":  30208
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_transformer.cp313-win_amd64.pyd",
+                      "sha256":  "bc220c1e28b5a5aa694eabe713c8c7b35f39aa38d6d6412046f9d1dfc96f138c",
+                      "size":  148480
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/_version.cp313-win_amd64.pyd",
+                      "sha256":  "fe1ca0d3689c21ed6a827a9baa5e4d1242b08b62a13e7b4ee067c2d4684bf276",
+                      "size":  19968
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/database.cp313-win_amd64.pyd",
+                      "sha256":  "08b5774859041768b65b8178e176bbe7abeba6162fdb270dafb4a2af20a8264d",
+                      "size":  84992
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pyproj/list.cp313-win_amd64.pyd",
+                      "sha256":  "55152ed7b98078ec339d8b8eacc7c87987856251c926139980e0da36032505f4",
+                      "size":  38912
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_2_0.pyd",
+                      "sha256":  "a3c91266af5c1054c46237cd60c5de5e79ab8b4b4d81aaec411304f4ed28e1c1",
+                      "size":  250368
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_2_1.pyd",
+                      "sha256":  "ddf3342e645cac041c0f56e47d7f6c6da494fb85152a07476b8106842a6de109",
+                      "size":  251904
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_4_1_Core.pyd",
+                      "sha256":  "932b8482407db1470f06a67d6d435d7c1fd7cfbdbe872230e353df69f278e561",
+                      "size":  135680
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/pylupdate.pyd",
+                      "sha256":  "08f1f4446ab8f4afef8f02e3b45973540fc2bae2f01ae0865657c21219fc1117",
+                      "size":  119296
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/pyrcc.pyd",
+                      "sha256":  "678163ab3ad9dc72299e54b74324c5a83fae2173a87ccee5e0e3d73f71e36698",
+                      "size":  50176
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QAxContainer.pyd",
+                      "sha256":  "b5c64a1a098f71909e59e61e845cc97a421de1bd78f862563bd8e977d21d8455",
+                      "size":  274944
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/Qt.pyd",
+                      "sha256":  "a07cc8e016fb4a9e42f2e0c7c522a7ebfe983d7991df7cc4fa16d84adeb1f5ad",
+                      "size":  12288
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtBluetooth.pyd",
+                      "sha256":  "b6f34db451c1760a03e3ba073ddf54ae26085b6fae5688e86815e91d4772b314",
+                      "size":  345600
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtCore.pyd",
+                      "sha256":  "d6e45fd8c3b3f93f52c4d1b6f9e3ee220454a73f80f65f3d70504bd55415ea37",
+                      "size":  2483712
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtDBus.pyd",
+                      "sha256":  "ce82f87e16bdf5e0b390b74a8dbcca66420da9fe40fd301ef1991660029f9955",
+                      "size":  178176
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtDesigner.pyd",
+                      "sha256":  "55913a98cd132b057fd8a0b8ab3f62a1f6c804983b34683ba9999d8a3cd3b5ef",
+                      "size":  314880
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtGui.pyd",
+                      "sha256":  "a9408e3b15ff3030f0e9acb3429000d253d3bb7206f750091a7130325f6d0d72",
+                      "size":  2494976
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtHelp.pyd",
+                      "sha256":  "6a3afa7c9ead2f8734d610906295c0daeefc413a8d6aacd084f80022c0400a0b",
+                      "size":  200704
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtLocation.pyd",
+                      "sha256":  "c4781ee2cfc82595886da68623d55c716814f2796f2e22697e1db2fbdc255355",
+                      "size":  446976
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtMultimedia.pyd",
+                      "sha256":  "b80bcd068bfbbc27e27d0192477ab39bd697c701857db55dfda1c2b97cbfaeb5",
+                      "size":  925184
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtMultimediaWidgets.pyd",
+                      "sha256":  "3009d8a435688b46c4b8996a6c7b1c0524018ba69e13c5961663795f9b15c21a",
+                      "size":  143872
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtNetwork.pyd",
+                      "sha256":  "0489d021b058700f0ebae0fb582339f5e1534d364baccbe44115ef26fa068fc4",
+                      "size":  706048
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtNfc.pyd",
+                      "sha256":  "a06a8b13d4dcd7c23ba672bf3ba6dacb89ff20e53d195ba39e0f96861f9a7b03",
+                      "size":  143872
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtOpenGL.pyd",
+                      "sha256":  "1f62fed8faffc6f9e9bd07eba0fe5142d6cff59b7f91ccff76369c7245041856",
+                      "size":  126976
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtPositioning.pyd",
+                      "sha256":  "ea4f2f787669e7b674e814fb4d46374b4f9ffe8967ab758102b7b459b84f3105",
+                      "size":  184320
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtPrintSupport.pyd",
+                      "sha256":  "fe028e8af3623ec0809c46c6a1324746a710fe73bd5249724bd91a195565288f",
+                      "size":  259072
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtQml.pyd",
+                      "sha256":  "4a55363801150093750d2939a04b8428beffb6b31ffc1314eab490da8436b96e",
+                      "size":  470016
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtQuick.pyd",
+                      "sha256":  "37918568a31bd82b8afa8916fbc6e65218643dc731295dc97fbd6cf022c6356f",
+                      "size":  930304
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtQuick3D.pyd",
+                      "sha256":  "aca00f7f15d08f56322c30ab528d1daab2a81ee065b3dfd61df859d56ca26777",
+                      "size":  38912
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtQuickWidgets.pyd",
+                      "sha256":  "7d9f0f31cf1c600ae4906425623543b65c674bef08b4803e7611e21eb484845f",
+                      "size":  62464
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtRemoteObjects.pyd",
+                      "sha256":  "5cb76e65f9fa46e5db1baefb10af2105f290e1d7ce85e1749c18ae395d6aae2b",
+                      "size":  95744
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtSensors.pyd",
+                      "sha256":  "3f868915541627684a210ce385793176d42bda3ac2d6ec94df441502a76927c2",
+                      "size":  256000
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtSerialPort.pyd",
+                      "sha256":  "5dd843aa20827d43589766362576db17faae0c41157a5f0df87f6ad0f7e72d75",
+                      "size":  74752
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtSql.pyd",
+                      "sha256":  "83a277165be5b54c6b6c5330047db8725233b923c3eb72d71da93e4fd5a169a2",
+                      "size":  316928
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtSvg.pyd",
+                      "sha256":  "273c667aaeeb15caab83084fd7f2477b97a1d1e585772f2f2cfbed1b4135be3b",
+                      "size":  118272
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtTest.pyd",
+                      "sha256":  "d64b8bac1627edd8d9b5dfab0e8cf583323db4cb8e78b496b01dc827f3e6f23c",
+                      "size":  83968
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtTextToSpeech.pyd",
+                      "sha256":  "bfba6ae457366685cbde324ac6cde54bce8f744a3d096090bd88e1bfed050836",
+                      "size":  41472
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWebChannel.pyd",
+                      "sha256":  "e859b768d4e6d910c51ab9b069998ae5fd23a6ad7e3f9a2be2eabe961169bb45",
+                      "size":  38912
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWebEngine.pyd",
+                      "sha256":  "80de35a4d916e2c3d45d1f76367ce50c34627640ba78c88e1072b257e280f258",
+                      "size":  55296
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWebEngineCore.pyd",
+                      "sha256":  "bc03a2df7dd309a15b34e2bbfd2f9d04ac57ab6c89cc7b685ea0387a162b0ad2",
+                      "size":  97792
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWebEngineWidgets.pyd",
+                      "sha256":  "4e35e19baad74448cc0a25b00550b175954db51a9cb0e01336aa305e1bb6322e",
+                      "size":  230912
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWebSockets.pyd",
+                      "sha256":  "37d7dff8424b5a18a3ef72457562b7511fe988e79633f7fd1cbb50353f895c8b",
+                      "size":  79360
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWidgets.pyd",
+                      "sha256":  "a1e97a2ab434c6ae5e56491c60172e59cdcce42960734e8bdf5d851b79361071",
+                      "size":  5144576
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtWinExtras.pyd",
+                      "sha256":  "5b283155f822b746e8e99b777e0c3174ed4429636cd94d393fd7b983e356adb4",
+                      "size":  112128
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtXml.pyd",
+                      "sha256":  "4876f5110e0d202158ce8f03a2763e054b31a489a88ff0ad6f95321cde0d0583",
+                      "size":  226304
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/QtXmlPatterns.pyd",
+                      "sha256":  "b274930e509edbeaa020dd4d690c047918b16fdc3b78988b4dc51af259b2e7a8",
+                      "size":  136704
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/PyQt5/sip.cp313-win_amd64.pyd",
+                      "sha256":  "eebc5e99677b7942e8b296d7da34a9d6606337c582501b95552262654b903b78",
+                      "size":  120320
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pythonwin/dde.pyd",
+                      "sha256":  "02cecf564848a1981e350159f5c4f95e252395e58a80100bf418b194bd975949",
+                      "size":  98816
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pythonwin/win32ui.pyd",
+                      "sha256":  "8a9f51b9a5152ef0b0fe3c5017af1f7004036311bdb806eb7987305ce9f1651f",
+                      "size":  1051648
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/pythonwin/win32uiole.pyd",
+                      "sha256":  "4185b286d6fd54aa4ea3cc86be9a87e0311886e9a0fb78ad0835399b7bf61e1b",
+                      "size":  74752
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/_win32sysloader.pyd",
+                      "sha256":  "b11b641fc73ab5cc8853e0e7384147ee97056a2508927129dc385237e5a70b3a",
+                      "size":  14848
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/_winxptheme.pyd",
+                      "sha256":  "1ad5a513e7fed3416cd08041815ae9d0836f63828ac1a3d5136f30350101f708",
+                      "size":  25600
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/mmapfile.pyd",
+                      "sha256":  "fce0389fa984f2f907c3e2067690e6509bfba336bc8581b9af06688fde7bc1d8",
+                      "size":  21504
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/odbc.pyd",
+                      "sha256":  "3d56da97ec3b7a7d4f44f29fb88bbc45dfe8b1d685a0fe28bbcbacfbb9cfda58",
+                      "size":  41984
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/perfmon.pyd",
+                      "sha256":  "743045362dcc4b3a77ba02daacbbec2856d611d10720a4a4a58d1b948023c6bb",
+                      "size":  28672
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/servicemanager.pyd",
+                      "sha256":  "8f60e4c9f33898cd0bea1c8edfa5e3937f801118bfc1b97b7251d833339d4bad",
+                      "size":  41472
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/timer.pyd",
+                      "sha256":  "669fefd959df21a6d36f694fe2af5ca517858815ca66c8277f0480a9b3faf2a6",
+                      "size":  16896
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32api.pyd",
+                      "sha256":  "b80722e54741563e72e264ca33e1900ee49c927c475e54ef8f94c3eac9032465",
+                      "size":  135168
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32clipboard.pyd",
+                      "sha256":  "955996e5867c1bf34e10838d462b413986e0911a9ffc3484076a03ac945fadc7",
+                      "size":  28672
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32console.pyd",
+                      "sha256":  "b2b3f282c593660ef5524ec3c231989f839e23acf01571206c44589e5b597afb",
+                      "size":  60416
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32cred.pyd",
+                      "sha256":  "f7dd953f24e800eaa4719fd5423c51f9d6987c9eebd5ee5fcab42a4295638ae4",
+                      "size":  38912
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32crypt.pyd",
+                      "sha256":  "f07fbdcebda155ece29f64a4ca199db544bfa1f3472661f20b569d2b56926123",
+                      "size":  124416
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32event.pyd",
+                      "sha256":  "b70d2aebb12d2a0c8d100f37e109319407cf025fc406ef23d13c1b5ddb64370a",
+                      "size":  29184
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32evtlog.pyd",
+                      "sha256":  "d8b40e7c79cf6821b2e7bab2ed279449f42510f3805f783c2fb9f1403481e1f3",
+                      "size":  75776
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32file.pyd",
+                      "sha256":  "9c2ef4a8b2224a8048a76f3be26b616c04379e853f1e45fbab87d75ce89c1d6d",
+                      "size":  145408
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32gui.pyd",
+                      "sha256":  "6c545bd22720a7088c1353e5e554ded4db5db4c1b164689e7d42acf312561aca",
+                      "size":  223232
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32help.pyd",
+                      "sha256":  "00fd809b67f271712d20423c07b45081c51c227b6f416b9d27d584dedcb62de2",
+                      "size":  54272
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32inet.pyd",
+                      "sha256":  "c570f14ed44a5d0d4b1c31b1e2b77eebd6770031b3ebcd12c33d5f653e0fa051",
+                      "size":  53248
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32job.pyd",
+                      "sha256":  "2332ea4e7b22ffaa0c9cf6f98a16a086632978fad5b0fa24110b4e5554f45588",
+                      "size":  28672
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32lz.pyd",
+                      "sha256":  "3e30018e339eb081b3eabaf61077f50b4af58fa6184c9ed8857d797e60c4d91b",
+                      "size":  16896
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32net.pyd",
+                      "sha256":  "22cadf6d6ae1fedb3f38b6d5d0be8a8d2d37321d1f7e4215caa010b38c3723b9",
+                      "size":  93696
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32pdh.pyd",
+                      "sha256":  "38a92aff88f58e35824fdae5b202692d4e003142120bb5032f05332a350ba54e",
+                      "size":  34816
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32pipe.pyd",
+                      "sha256":  "5ab3cc5b6f48b839259680688dd51f386e0cd55a39d35e412a88ad68bfcf5b3e",
+                      "size":  28672
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32print.pyd",
+                      "sha256":  "1a5a443d9154e6a3cf62fe39dd7f40a3fea272c297ac1e0aa9e10c0b0ea68bad",
+                      "size":  75264
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32process.pyd",
+                      "sha256":  "9d99c96c6d2e15fc52ed9444dc880ebfb358fbcd1f659ddf8af1a233033294ce",
+                      "size":  54272
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32profile.pyd",
+                      "sha256":  "2dff78afe08bd30ba5fb5a44c2ff255a0542f6ec6f0471c59e9c5b80a7261fab",
+                      "size":  27136
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32ras.pyd",
+                      "sha256":  "54bb5ebe878179c67f3716f06f12633b08a0f695396f227016c8247d208cdadc",
+                      "size":  34304
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32security.pyd",
+                      "sha256":  "99b4fd9f47602371380c8579489b0c6fdc88d7776224062ba6c39b185c4e9001",
+                      "size":  137216
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32service.pyd",
+                      "sha256":  "eb3ea4dab12ecfb5296627435d2d0425d80e02ff73f586af166687a60215fff7",
+                      "size":  59904
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32trace.pyd",
+                      "sha256":  "a5f35e4db0dfe0c77871169b477e95c2b87609a75a376167b1e96220c008819a",
+                      "size":  24064
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32transaction.pyd",
+                      "sha256":  "2bf0766a55341eb93ec66f52ee4b1dacae76c2d6627b3e20f9208e02676b9c50",
+                      "size":  19456
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32ts.pyd",
+                      "sha256":  "ae5ae7a1627757f5a54aca56e715d8d1546475c480b9ef21b99f0db9e26d6a58",
+                      "size":  33280
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32/win32wnet.pyd",
+                      "sha256":  "8a1f2ee42a14ef45f95f90c33c863a80aa67648e6394331f27f34345942bbb6c",
+                      "size":  38400
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/adsi/adsi.pyd",
+                      "sha256":  "7c35fa842b30db4bbfe049d3b2c5f5c3dbe609dee99ed77f722ef5b208a8bf16",
+                      "size":  101888
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/authorization/authorization.pyd",
+                      "sha256":  "d1f57039cdd0da5d0cb424d2efcf2ac58c4e5d9b5965812dcf6577d3c674263b",
+                      "size":  29184
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/axcontrol/axcontrol.pyd",
+                      "sha256":  "156f4cb165626e4f108fc5ad947564e58820fc4f0b66065538edb6fd6140d306",
+                      "size":  146944
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/axscript/axscript.pyd",
+                      "sha256":  "1f8a9830018dee82377b3f6ec4a808ad8be408ae11c8009d7014cb1252b8300b",
+                      "size":  94208
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/bits/bits.pyd",
+                      "sha256":  "e6deb0bf1c952b6e309746c1a3df557a4af50124e867fc2e31df9cbb293fb9a1",
+                      "size":  64512
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/directsound/directsound.pyd",
+                      "sha256":  "7041520bf8cad7566f872a197c67bf87208d0f09c3abad499e840ac209c6d026",
+                      "size":  77824
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/ifilter/ifilter.pyd",
+                      "sha256":  "940349cde1660cc7132740ab35df72bb6c144e0f98bbdf679127045955cc4502",
+                      "size":  30720
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/internet/internet.pyd",
+                      "sha256":  "d9be6b5fb79aeb4be85013f72c403a70323a294fe8a5cafba6f991575c242cd6",
+                      "size":  94720
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/mapi/exchange.pyd",
+                      "sha256":  "d574f3d8e68b81f5b7b8dd9af6b588f89282c11f50fb35d7c5f6d7d9592aa8ea",
+                      "size":  138752
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/mapi/mapi.pyd",
+                      "sha256":  "ce1d848312eb935a7ba6ec5f6a6c10b77ea12dcb700aaf51554a7fe85c52c583",
+                      "size":  250880
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/propsys/propsys.pyd",
+                      "sha256":  "bdc18653b1f2e3b52cd4f39b10282bddd1e3219a568deacef55394572e23dd3f",
+                      "size":  141824
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/shell/shell.pyd",
+                      "sha256":  "65076be2fd14083da1f5b472a46608af9fd019616778880a856e737f67987dae",
+                      "size":  543232
+                  },
+                  {
+                      "path":  ".venv/Lib/site-packages/win32comext/taskscheduler/taskscheduler.pyd",
+                      "sha256":  "45b67359f3b085c0e74354c5afefcf0fb22078946786dac86b2342141cba8f3a",
+                      "size":  53760
+                  },
+                  {
+                      "path":  "bgm_player.pyd",
+                      "sha256":  "076fa41925d5b055de4871ff7c07c9683bc9ff297107e77c68bd93cdb1e7fd0b",
+                      "size":  56320
+                  },
+                  {
+                      "path":  "bgm/Cyberspace Hero Select.mp3",
+                      "sha256":  "0cb352c1d787ba3a77223502d25d27d72ca3607ac120c52948817063a177608f",
+                      "size":  6336874
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/bgm_player.cp313-win_amd64.pyd",
+                      "sha256":  "076fa41925d5b055de4871ff7c07c9683bc9ff297107e77c68bd93cdb1e7fd0b",
+                      "size":  56320
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/config.cp313-win_amd64.pyd",
+                      "sha256":  "e0c0aca54f97d1c169ac62e6584c07968dbca56e1076d688ce1a00e564e763fb",
+                      "size":  21504
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/dialogs.cp313-win_amd64.pyd",
+                      "sha256":  "ff24364786d778662c1c1d9685a4866f33f6355e38e4689b27a3331f8b72ff60",
+                      "size":  128000
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/hacker_splash.cp313-win_amd64.pyd",
+                      "sha256":  "6945317108b0a7bd5247b577d1e04b01f774cb1146e14ebe1eb8ddd5b4e8a73a",
+                      "size":  161280
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/hacker_theme.cp313-win_amd64.pyd",
+                      "sha256":  "60cd3505a7781f6112d250109f255add09ceca66d0652c39409d644decba6f8d",
+                      "size":  43008
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/login_dialog.cp313-win_amd64.pyd",
+                      "sha256":  "1b404ec8b9e09a4ed643c30bd6ef7672d279619ac85f99b5384df5a49fee83c5",
+                      "size":  132608
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/Main.cp313-win_amd64.pyd",
+                      "sha256":  "f564c18053fe70f8e3990dcf8b60a8fdd1c3772ad132a34418bd1143b9ef3bd6",
+                      "size":  57344
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/main_window.cp313-win_amd64.pyd",
+                      "sha256":  "f8537a227cf90306910e7c7d3b528a125edf049924ef3ea99cef95b632158ffc",
+                      "size":  267776
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/map_visualizer.cp313-win_amd64.pyd",
+                      "sha256":  "74f8c5758be88c3f4f124c3e38eae9c40673ce84b633d09017b88dc76c3bd7e3",
+                      "size":  197632
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/ngii_session.cp313-win_amd64.pyd",
+                      "sha256":  "7f8d8d73bf9836c088e92ea673838a2b10469d3cea1b419450723b7480569f22",
+                      "size":  118784
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/tab_autocad.cp313-win_amd64.pyd",
+                      "sha256":  "1115c9f3cedde2bba57510887a05f38f65476e468461d5c803289c7221880281",
+                      "size":  88576
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/tab_polygon.cp313-win_amd64.pyd",
+                      "sha256":  "4d8e570281b718053a99623334d3c2fb4443411cf5103a428ba690ba94001949",
+                      "size":  186880
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/update_notes.cp313-win_amd64.pyd",
+                      "sha256":  "46914796b488dbf2038625261112ea99f37eab7ec1e98d6333f1275872f0b687",
+                      "size":  19456
+                  },
+                  {
+                      "path":  "build/lib.win-amd64-cpython-313/utils.cp313-win_amd64.pyd",
+                      "sha256":  "418c6f8ac736021c8c7ac9e1b4a81a8fb56bf1a7d4b9236e567995988d7fa5d8",
+                      "size":  89600
+                  },
+                  {
+                      "path":  "config.pyd",
+                      "sha256":  "e0c0aca54f97d1c169ac62e6584c07968dbca56e1076d688ce1a00e564e763fb",
+                      "size":  21504
+                  },
+                  {
+                      "path":  "dialogs.pyd",
+                      "sha256":  "ff24364786d778662c1c1d9685a4866f33f6355e38e4689b27a3331f8b72ff60",
+                      "size":  128000
+                  },
+                  {
+                      "path":  "hacker_splash.pyd",
+                      "sha256":  "6945317108b0a7bd5247b577d1e04b01f774cb1146e14ebe1eb8ddd5b4e8a73a",
+                      "size":  161280
+                  },
+                  {
+                      "path":  "hacker_theme.pyd",
+                      "sha256":  "60cd3505a7781f6112d250109f255add09ceca66d0652c39409d644decba6f8d",
+                      "size":  43008
+                  },
+                  {
+                      "path":  "login_dialog.pyd",
+                      "sha256":  "1b404ec8b9e09a4ed643c30bd6ef7672d279619ac85f99b5384df5a49fee83c5",
+                      "size":  132608
+                  },
+                  {
+                      "path":  "Main.pyd",
+                      "sha256":  "f564c18053fe70f8e3990dcf8b60a8fdd1c3772ad132a34418bd1143b9ef3bd6",
+                      "size":  57344
+                  },
+                  {
+                      "path":  "main_window.pyd",
+                      "sha256":  "f8537a227cf90306910e7c7d3b528a125edf049924ef3ea99cef95b632158ffc",
+                      "size":  267776
+                  },
+                  {
+                      "path":  "map_visualizer.pyd",
+                      "sha256":  "74f8c5758be88c3f4f124c3e38eae9c40673ce84b633d09017b88dc76c3bd7e3",
+                      "size":  197632
+                  },
+                  {
+                      "path":  "mp4/Jakal1.mp4",
+                      "sha256":  "43605f41455e80c6c791d008860b413f7dfecd4ccc1938bef63dd7ba01532c27",
+                      "size":  13381139
+                  },
+                  {
+                      "path":  "ngii_session.pyd",
+                      "sha256":  "7f8d8d73bf9836c088e92ea673838a2b10469d3cea1b419450723b7480569f22",
+                      "size":  118784
+                  },
+                  {
+                      "path":  "tab_autocad.pyd",
+                      "sha256":  "1115c9f3cedde2bba57510887a05f38f65476e468461d5c803289c7221880281",
+                      "size":  88576
+                  },
+                  {
+                      "path":  "tab_polygon.pyd",
+                      "sha256":  "4d8e570281b718053a99623334d3c2fb4443411cf5103a428ba690ba94001949",
+                      "size":  186880
+                  },
+                  {
+                      "path":  "update_notes.pyd",
+                      "sha256":  "46914796b488dbf2038625261112ea99f37eab7ec1e98d6333f1275872f0b687",
+                      "size":  19456
+                  },
+                  {
+                      "path":  "utils.pyd",
+                      "sha256":  "418c6f8ac736021c8c7ac9e1b4a81a8fb56bf1a7d4b9236e567995988d7fa5d8",
+                      "size":  89600
+                  }
+              ],
+    "removed":  [
+
+                ]
 }
