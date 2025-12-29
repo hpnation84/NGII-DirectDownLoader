@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "url": "https://github.com/hpnation84/NGII-DirectDownLoader/releases/download/v1.9.1/NGII_DirectDownLoader.exe",
-  "sha256": "42D9840D7626DDFBF12638B3A1AC543E11383204A2A030E2411FB2984C650BDE",
-  "releaseNotes": "변경사항..."
+  "version": "1.9.2",
+  "url": "https://github.com/hpnation84/NGII-DirectDownLoader/releases/download/v1.9.2/NGII_DirectDownLoader.exe",
+  "sha256": "3BEE42C10E5B33CEB25434930A765C6EB242935F33B4D482A956A1AEEBE07B0A",
+  "releaseNotes": "## v1.9.2\n- 자동 업데이트 엔드포인트를 EXE 방식으로 전환\n- 업데이트 다운로드 진행률/완료 알림 UI 추가\n- 릴리즈 노트 표시 개선\n- 다운로드 팝업 제목/아이콘 수정"
 }
