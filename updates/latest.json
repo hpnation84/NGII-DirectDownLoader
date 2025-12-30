@@ -1,6 +1,6 @@
 {
   "version": "1.9.3",
-  "url": "https://github.com/hpnation84/NGII-DirectDownLoader/releases/download/v1.9.2/NGII_DirectDownLoader.exe",
+  "url": "https://github.com/hpnation84/NGII-DirectDownLoader/releases/download/v1.9.3/NGII_DirectDownLoader.exe",
   "sha256": "6F9A366758C3A845E95A330FCFC80BD3FC047D6F7D4318FEC978E9D4075CD063",
   "releaseNotes": "## v1.9.3\n- Fix: 로그인 리셋 링크\n- Add: 비밀번호 재설정 창\n- Update: UI 개선"
 }
