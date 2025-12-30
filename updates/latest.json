@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "url": "https://github.com/hpnation84/NGII-DirectDownLoader/releases/download/v1.9.2/NGII_DirectDownLoader.exe",
-  "sha256": "3BEE42C10E5B33CEB25434930A765C6EB242935F33B4D482A956A1AEEBE07B0A",
-  "releaseNotes": "## v1.9.2\n- 자동 업데이트 엔드포인트를 EXE 방식으로 전환\n- 업데이트 다운로드 진행률/완료 알림 UI 추가\n- 릴리즈 노트 표시 개선\n- 다운로드 팝업 제목/아이콘 수정"
+  "sha256": "6F9A366758C3A845E95A330FCFC80BD3FC047D6F7D4318FEC978E9D4075CD063",
+  "releaseNotes": "## v1.9.3\n- Fix: 로그인 리셋 링크\n- Add: 비밀번호 재설정 창\n- Update: UI 개선"
 }
